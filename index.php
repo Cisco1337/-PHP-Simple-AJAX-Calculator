@@ -3,7 +3,6 @@ include 'inc/core.inc.php';
 include 'inc/config.inc.php';
 $core = new Core(TEXT_COLOR);
 session_start();
-echo $_SESSION["expression"];
 ?>
 <!DOCTYPE html>
 <html>
