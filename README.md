@@ -1,3 +1,3 @@
 <h1>PHP Simple AJAX Calculator</h1>
 
-Test
+It's not 100% working... still in development.
